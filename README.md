@@ -11,10 +11,10 @@ The system has 3 parties; a patient, a doctor and then an admin
 6. Import hms.sql file(given inside the zip package in SQL file folder)
 7. Run the script http://localhost/hospital (frontend)
 
-Login Details
-Login Details for admin : admin/helloworld123
-Login Details for Patient: noeljoel61@gmail.com/helloworld123
-Login Details for Doctor: noeljoel61@gmail.com/helloworld123
+#### Login Details
+- Login Details for admin : admin/helloworld123
+- Login Details for Patient: noeljoel61@gmail.com/helloworld123
+- Login Details for Doctor: noeljoel61@gmail.com/helloworld123
 
 
 ## FUNCTIONALITIES
